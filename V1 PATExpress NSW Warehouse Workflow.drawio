@@ -175,6 +175,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="%name% Text" placeholders="1" name="Variable" id="3x4P2FekJ264p6kQjL1A-39">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="210" y="25" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
