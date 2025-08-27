@@ -5,56 +5,49 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Resolve Discrepancy" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="898" y="112" width="363" height="462" as="geometry" />
+          <mxGeometry x="28" y="522" width="363" height="462" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Check Inventory&#xa;in CartonCloud" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="362" width="190" height="54" as="geometry" />
+        <mxCell id="5" value="Check Warehouse Inventory&#xa;in CartonCloud" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="500" y="284" width="190" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Verify Item Count" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="998" y="495" width="186" height="54" as="geometry" />
+          <mxGeometry x="128" y="905" width="186" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Prepare Items for Packing" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="969" y="751" width="244" height="54" as="geometry" />
+          <mxGeometry x="99" y="1161" width="244" height="54" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Resolve Discrepancy" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1084" y="647" width="204" height="54" as="geometry" />
+          <mxGeometry x="214" y="1057" width="204" height="54" as="geometry" />
         </mxCell>
         <mxCell id="11" value="Pack Items into Boxes" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="983" y="855" width="215" height="54" as="geometry" />
+          <mxGeometry x="113" y="1265" width="215" height="54" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Label Boxes" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1018" y="959" width="145" height="54" as="geometry" />
+          <mxGeometry x="148" y="1369" width="145" height="54" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Update Inventory System" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="971" y="1063" width="239" height="54" as="geometry" />
+          <mxGeometry x="101" y="1473" width="239" height="54" as="geometry" />
         </mxCell>
         <mxCell id="14" value="Prepare for Shipment" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="984" y="1167" width="213" height="54" as="geometry" />
+          <mxGeometry x="114" y="1577" width="213" height="54" as="geometry" />
         </mxCell>
         <mxCell id="15" value="Generate Shipping Label" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="973" y="1271" width="235" height="54" as="geometry" />
+          <mxGeometry x="103" y="1681" width="235" height="54" as="geometry" />
         </mxCell>
         <mxCell id="16" value="Handover to Shipping" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="984" y="1375" width="213" height="54" as="geometry" />
+          <mxGeometry x="114" y="1785" width="213" height="54" as="geometry" />
         </mxCell>
         <mxCell id="17" value="End Picking Process" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="991" y="1479" width="199" height="54" as="geometry" />
+          <mxGeometry x="121" y="1889" width="199" height="54" as="geometry" />
         </mxCell>
         <mxCell id="18" value="Contact Warehouse Staff" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="933" y="137" width="237" height="54" as="geometry" />
+          <mxGeometry x="63" y="547" width="237" height="54" as="geometry" />
         </mxCell>
         <mxCell id="19" value="Perform Item Search" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="948" y="264" width="207" height="54" as="geometry" />
+          <mxGeometry x="78" y="674" width="207" height="54" as="geometry" />
         </mxCell>
         <mxCell id="20" value="Update Picking List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="953" y="391" width="197" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="594.5" y="160" as="sourcePoint" />
-            <mxPoint x="594" y="235" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="83" y="801" width="197" height="54" as="geometry" />
         </mxCell>
         <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3x4P2FekJ264p6kQjL1A-43" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -62,41 +55,25 @@
             <mxPoint x="595" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" value="In Stock" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;" parent="1" source="5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="453" />
-            </Array>
-            <mxPoint x="461" y="489" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="24" value="Out of Stock" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;" parent="1" source="5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="729" y="453" />
-            </Array>
-            <mxPoint x="728" y="489" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="26" value="Count Matches" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.29;entryY=0;" parent="1" source="8" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="995" y="574" />
-              <mxPoint x="995" y="726" />
+              <mxPoint x="125" y="984" />
+              <mxPoint x="125" y="1136" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="27" value="Count Mismatches" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;" parent="1" source="8" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1187" y="574" />
+              <mxPoint x="317" y="984" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;" parent="1" source="10" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1187" y="726" />
+              <mxPoint x="317" y="1136" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,7 +115,7 @@
         <mxCell id="36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0.36;entryY=0;" parent="1" source="18" target="19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="985" y="228" />
+              <mxPoint x="115" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -150,14 +127,14 @@
         <mxCell id="38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;" parent="1" source="20" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1052" y="470" />
+              <mxPoint x="182" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="39" value="Follow-up" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=1;entryX=0.66;entryY=0;" parent="1" source="18" target="19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1129" y="228" />
+              <mxPoint x="259" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,16 +149,44 @@
           </mxCell>
         </UserObject>
         <mxCell id="3x4P2FekJ264p6kQjL1A-42" value="Start PICK process" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="553" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="555" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3x4P2FekJ264p6kQjL1A-43" value="Receive Picking List&#xa;in CartonCloud" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="237" width="190" height="54" as="geometry" />
+        <mxCell id="3x4P2FekJ264p6kQjL1A-43" value="Receive Picking List&#xa;via email or CartonCloud" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="206" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3x4P2FekJ264p6kQjL1A-45" value="Pick items from Warehouse" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="363" y="489" width="190" height="54" as="geometry" />
+        <mxCell id="3x4P2FekJ264p6kQjL1A-45" value="Pick items from Warehouse&#xa;via Barcode Scanner" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="418" width="190" height="54" as="geometry" />
         </mxCell>
         <mxCell id="3x4P2FekJ264p6kQjL1A-46" value="Notify Supervisor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="633" y="489" width="190" height="54" as="geometry" />
+          <mxGeometry x="620" y="418" width="190" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3x4P2FekJ264p6kQjL1A-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3x4P2FekJ264p6kQjL1A-42" target="3x4P2FekJ264p6kQjL1A-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="sourcePoint" />
+            <mxPoint x="260" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3x4P2FekJ264p6kQjL1A-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="3x4P2FekJ264p6kQjL1A-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="sourcePoint" />
+            <mxPoint x="260" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3x4P2FekJ264p6kQjL1A-53" value="In Stock" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3x4P2FekJ264p6kQjL1A-52">
+          <mxGeometry x="0.0186" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3x4P2FekJ264p6kQjL1A-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3x4P2FekJ264p6kQjL1A-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="340" as="sourcePoint" />
+            <mxPoint x="780" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3x4P2FekJ264p6kQjL1A-55" value="Out of Stock" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3x4P2FekJ264p6kQjL1A-54">
+          <mxGeometry x="0.0186" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
